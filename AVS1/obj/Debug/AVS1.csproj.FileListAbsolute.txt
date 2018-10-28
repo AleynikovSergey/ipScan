@@ -1,0 +1,36 @@
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\bin\Debug\AVS1.exe.config
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\bin\Debug\AVS1.exe
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\bin\Debug\AVS1.pdb
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Debug\AVS1.csprojResolveAssemblyReference.cache
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Debug\AVS1.Form1.resources
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Debug\AVS1.Properties.Resources.resources
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Debug\AVS1.csproj.GenerateResource.Cache
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Debug\AVS1.exe
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Debug\AVS1.pdb
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.exe.config
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.exe
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.pdb
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.exe
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.pdb
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.csprojResolveAssemblyReference.cache
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.Form1.resources
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.Properties.Resources.resources
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.csproj.GenerateResource.Cache
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.exe.config
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.exe
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.pdb
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.exe
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.pdb
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.Form1.resources
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.Properties.Resources.resources
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.exe.config
+E:\Dropbox\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.exe
+E:\Dropbox\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.pdb
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.exe.config
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.exe
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.pdb
+E:\Архив\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Debug\AVS1.exe.config
+E:\Архив\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.exe
+E:\Архив\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Debug\AVS1.pdb

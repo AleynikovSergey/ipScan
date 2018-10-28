@@ -1,0 +1,27 @@
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\bin\Release\AVS1.exe.config
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\bin\Release\AVS1.exe
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\bin\Release\AVS1.pdb
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Release\AVS1.csprojResolveAssemblyReference.cache
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Release\AVS1.Form1.resources
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Release\AVS1.Properties.Resources.resources
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Release\AVS1.csproj.GenerateResource.Cache
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Release\AVS1.exe
+C:\Users\Дом\Documents\Visual Studio 2013\Projects\AVS1\AVS1\obj\Release\AVS1.pdb
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Release\AVS1.exe.config
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.exe
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.pdb
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Release\AVS1.exe
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Release\AVS1.pdb
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.csprojResolveAssemblyReference.cache
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.Form1.resources
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.Properties.Resources.resources
+C:\Users\Timur\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.csproj.GenerateResource.Cache
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Release\AVS1.exe.config
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.exe
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.pdb
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Release\AVS1.exe
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\bin\Release\AVS1.pdb
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.csprojResolveAssemblyReference.cache
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.Form1.resources
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.Properties.Resources.resources
+C:\Users\Дом\Dropbox\5 semestr\Алейников\АВС\ЛР1\AVS1\AVS1\obj\Release\AVS1.csproj.GenerateResource.Cache
